@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "My love, will you be my Valentine?", // The big question!
+            text: "Will you be my Valentine?", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "YESSS BREAK THE BAR I LOVE YOU MORE THAN YOU CAN IMAGINE 😘😍🧡❤️‍🔥",  // Shows when they go past 5000%
-        high: "Still not right, go further 😤",              // Shows when they go past 1000%
+        extreme: "MORE!! BREAK THE BAR BABY!! I LOVE YOU MORE THAN YOU CAN IMAGINE 😘😍🧡❤️‍🔥",  // Shows when they go past 5000%
+        high: "Nope! go even further 😤",              // Shows when they go past 1000%
         normal: "That's it? Go further 😡"                   // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Thank you for saying yes and making me the happiest and luckiest girl alive sweetheart 😘❤️",
-        message: "Now come get your gift, so many kisses from me!!",
-        emojis: "💋💋😘😙🥰❤️❤️‍🔥💋💋🧡😍💋💋💋"  // These will bounce around
+        title: "Thank you for saying yes and making me the happiest and luckiest girl alive, my sweetheart 😘❤️",
+        message: "You get so many kisses from me!!",
+        emojis: "💋💋💋💋💋💋💋💋"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -70,7 +70,7 @@ const CONFIG = {
         floatDuration: "18s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "40px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.6s",            // Speed of bouncing animations (0.3-0.7s recommended)
-        heartExplosionSize: 1.6        // Size of heart explosion effect (1.2-2.0 recommended)
+        heartExplosionSize: 1.2      // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
     // Background Music (Optional)
