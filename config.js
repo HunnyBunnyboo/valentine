@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '❤️‍🔥', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '❤️‍🔥', '🌹'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Thank you for saying yes and making me the happiest and luckiest girl alive, my sweetheart 😘❤️",
         message: "You get so many kisses from me!!",
-        emojis: "💋💋💋💋💋💋💋💋"  // These will bounce around
+        emojis: "💋💋💋💋💋💋💋💋💋💋💋💋"  // These will bounce around
     },
 
     // Color scheme for the website
