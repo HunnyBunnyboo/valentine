@@ -9,12 +9,12 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Open only if you are Hana's husband 😚",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '🧡', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '❤️‍🔥', '💗', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -57,11 +57,11 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ff758c",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ff7eb3",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#e63946",     // Button color (should stand out against the background)
-        buttonHover: "#ff4d6d",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#b5172e"             // Text color (make sure it's readable!)
+        backgroundStart: "#6B0F1A",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#8B1D26",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#B22222",     // Button color (should stand out against the background)
+        buttonHover: "#C0392B",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#F8EDEB"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
